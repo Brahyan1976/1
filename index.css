@@ -1,0 +1,35 @@
+body{
+   
+    background-color: #b9d89e;
+  FONT-FAMILY:initial;
+   font-size: 25px;
+  FONT-WEIGHT:800;
+}
+.cuerpo{
+   color: rgb(7 95 42);
+   
+  FONT-FAMILY:initial;
+   font-size: 25px;
+  FONT-WEIGHT:800;
+
+}
+.cuerpo2{
+    color:rgb(59 55 55) ;
+    padding:10px;
+    background-color: rgb(174, 192, 82);
+    font-weight:100;
+    border-radius: 10px;
+    font-size: 19px;
+
+
+
+}
+.cuerpo3{
+    color: black;
+}
+.direccion{
+    font-size: 25px;
+}
+img{
+    
+}
